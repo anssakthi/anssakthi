@@ -1,20 +1,70 @@
-# Hello, I'm Sakthi! 👋
+# Hi, I'm Sakthi! 👋
 
-I'm a Senior Application Engineer based at the Ansys office in Bengaluru, India. My passion lies in leveraging my expertise in DevOps and Python to deploy innovative PyAnsys-based solutions for our valued clientele. With a keen eye for detail and a commitment to excellence, I ensure seamless integration and adoption of our solutions to meet the diverse needs of our customers.
+I'm a **Senior Application Engineer** based in Bengaluru, with 7+ years of experience crafting cloud-native automation, AI-driven DevOps workflows, & seamless CI/CD pipelines.
 
-## 🔧 Expertise
+---
 
-- **DevOps:** Proficient in implementing DevOps practices to streamline development processes and enhance collaboration between teams.
-- **Python Development:** Skilled in Python programming, I've developed numerous scalable applications, demonstrating my proficiency and versatility in software engineering.
+## 🛠️ Core Stack & Tools
 
-## 🎓 Education
+- **AI & Automation:**  
+  RAG-based tools, MCP Servers, [AutoGen](https://github.com/microsoft/autogen), [LangChain](https://github.com/langchain-ai/langchain)
+- **Infrastructure:**  
+  GCP (Anthos, BigQuery), Kubernetes (K8s), Terraform (IaC)
+- **DevSecOps:**  
+  Security scanning, compliance automation, DORA metrics
 
-I hold a Bachelor’s degree in Electrical and Electronics Engineering from the Manakula Vinayar Institute of Technology in my hometown, Puducherry. This solid foundation has equipped me with the necessary skills and knowledge to excel in the ever-evolving tech landscape.
+---
+
+## 🚀 Recent Impact
+
+- **AI DevOps Assistant:**  
+  Developed an internal, RAG-based engineer assistant—boosting developer productivity by **30%**.
+- **K8s Automation:**  
+  Built an AI PoC to convert natural language into validated Kubernetes manifests, targeting **70%** manual workload reduction.
+- **System Orchestration:**  
+  Enhanced Python tools for multi-tool simulation, reducing manual effort by **80%**.
+- **Enterprise Migration:**  
+  Led a large-scale move from PCF to Anthos (GCP) with **99.9%** pipeline uptime.
+
+---
+
+## 📊 GitHub Metrics & Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=anssakthi&show_icons=true&hide_border=true&theme=radical" alt="anssakthi's GitHub Stats" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anssakthi&theme=radical&hide_border=true" alt="anssakthi's Streak Stats" height="180"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anssakthi&layout=compact&theme=radical&hide_border=true" alt="Top Languages"/>
+</p>
+<p align="center">
+  <!-- Commit graph (requires GitHub Profile Trophy) -->
+  <img src="https://github-profile-trophy.vercel.app/?username=anssakthi&theme=radical&margin-w=10&margin-h=15&column=7" alt="Trophies" height="130" />
+</p>
+<p align="center">
+  <!-- Commit activity graph by Ashutosh00710 -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anssakthi&theme=radical&hide_border=true" alt="Contribution Graph" height="200"/>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/github/commit-activity/m/anssakthi/anssakthi?color=ff69b4&label=commit%20activity%20(this%20repo)&logo=github&style=for-the-badge">
+  <img src="https://img.shields.io/github/last-commit/anssakthi/anssakthi?color=yellow&label=last%20commit&logo=github&style=for-the-badge">
+</p>
+
+---
 
 ## 🌱 Fun Fact
 
-Outside of the tech realm, I'm an avid collector of unique and diverse coins. When I'm not coding or deploying solutions, you'll likely find me expanding my collection or exploring new additions to it!
+> "I build tools that build tools."  
+> I’m obsessed with removing the *manual* from DevOps—if I have to do it twice, I'm already writing a Python script to automate it for the third time. 🤖
 
-Feel free to connect with me on [Sakthi prakash](https://www.linkedin.com/in/sakthi-prakash-r-97b92a135/) to explore collaborations or discuss exciting opportunities!
+---
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
+## 📫 Let’s connect!
+
+- [LinkedIn](https://www.linkedin.com/in/sakthi-ans/)
+
+---
+
+<!--
+If you like my work, don't forget to ⭐ my repositories!
+-->

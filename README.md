@@ -30,17 +30,11 @@ I'm a **Senior Application Engineer** based in Bengaluru, with 7+ years of exper
 
 ## 📊 GitHub Metrics & Activity
 
+## 📊 My GitHub Metrics
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anssakthi&show_icons=true&hide_border=true&theme=radical" alt="anssakthi's GitHub Stats" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anssakthi&theme=radical&hide_border=true" alt="anssakthi's Streak Stats" height="180"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anssakthi&layout=compact&theme=radical&hide_border=true" alt="Top Languages"/>
-</p>
-<p align="center">
-  <!-- Commit graph (requires GitHub Profile Trophy) -->
-  <img src="https://github-profile-trophy.vercel.app/?username=anssakthi&theme=radical&margin-w=10&margin-h=15&column=7" alt="Trophies" height="130" />
-</p>
+  <img src="https://img.shields.io/github/commit-activity/m/anssakthi/anssakthi?color=ff69b4&label=commit%20activity&logo=github&style=for-the-badge" />
+  <img src="https://img.shields.io/github/last-commit/anssakthi/anssakthi?color=yellow&label=last%20commit&logo=github&style=for-the-badge" />
 <p align="center">
   <!-- Commit activity graph by Ashutosh00710 -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=anssakthi&theme=radical&hide_border=true" alt="Contribution Graph" height="200"/>

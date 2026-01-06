@@ -17,4 +17,4 @@ Outside of the tech realm, I'm an avid collector of unique and diverse coins. Wh
 
 Feel free to connect with me on [Sakthi prakash](https://www.linkedin.com/in/sakthi-prakash-r-97b92a135/) to explore collaborations or discuss exciting opportunities!
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=anssakthi&theme=dark&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
